@@ -1,0 +1,33 @@
+#container {
+    width:100%;
+    height:200px;
+}
+#one {
+    width:33.333%;
+    height:100vh;
+    float:left;
+    background-color:#3B5998;
+    padding-top: 50px;
+    border-radius: 50px;
+}
+#two {
+    width:33.333%;
+    height:100vh;
+    float:left;
+    background-color:#4099FF;
+    border-radius: 50px;
+    padding: inherit;
+    
+}
+#three {
+    width:33.333%;
+    height:100vh;
+    float:left;
+    background-color:#3f729b;
+    border-radius: 50px;
+    
+}
+#fb_image {
+    width: 50%;
+    height: 50%;
+}
